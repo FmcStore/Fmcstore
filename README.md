@@ -55,7 +55,7 @@ learning:
 ask_me_about: [Next.js, Node.js, Scraping, API, Anime]
 reach_me:
   instagram: "@fmcstoree"
-  website: https://fmcstore.web.id
+  website: https://fmcstore.eu.cc
 fun_fact: "Enjoy Ke Semuanya"
 ```
 
@@ -97,7 +97,7 @@ fun_fact: "Enjoy Ke Semuanya"
 
 ### 🎯 Yang Sedang Aku Bangun
 
-- 🌐 **FMC Store** — produk digital & layanan web ([fmcstore.web.id](https://fmcstore.eu.cc))
+- 🌐 **FMC Store** — produk digital & layanan web ([fmcstore.eu.cc](https://fmcstore.eu.cc))
 - 🎬 **Platform streaming & komik** — katalog yang enak dipakai di HP maupun desktop
 - 🤖 **Bot & otomasi** — WhatsApp bot, monitoring uptime, alert Telegram
 - 🔌 **API & scraping** — bikin data publik jadi terstruktur dan gampang dikonsumsi
@@ -137,7 +137,7 @@ fun_fact: "Enjoy Ke Semuanya"
 
 | Keperluan | Kontak |
 |---|---|
-| 🌍 Website / Portfolio | [fmcstore.web.id](https://fmcstore.eu.cc) |
+| 🌍 Website / Portfolio | [fmcstore.eu.cc](https://fmcstore.eu.cc) |
 | 📷 Instagram | [@fmcstoree](https://www.instagram.com/fmcstoree) |
 | 🧑‍💻 Akun kedua (eksperimen) | [bianmbut58-netizen](https://github.com/bianmbut58-netizen) |
 
