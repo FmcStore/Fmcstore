@@ -12,7 +12,7 @@
 <h3>⚡ Bangun produk nyata, bukan cuma ikut tutorial</h3>
 
 <p>
-  <a href="https://fmcstore.web.id">
+  <a href="https://fmcstore.eu.cc">
     <img alt="Website" src="https://img.shields.io/badge/fmcstore.web.id-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://www.instagram.com/fmcstoree">
@@ -97,7 +97,7 @@ fun_fact: "Kalau ada ide jam 2 pagi, paginya repo-nya sudah jadi 😄"
 
 ### 🎯 Yang Sedang Aku Bangun
 
-- 🌐 **FMC Store** — produk digital & layanan web ([fmcstore.web.id](https://fmcstore.web.id))
+- 🌐 **FMC Store** — produk digital & layanan web ([fmcstore.web.id](https://fmcstore.eu.cc))
 - 🎬 **Platform streaming & komik** — katalog yang enak dipakai di HP maupun desktop
 - 🤖 **Bot & otomasi** — WhatsApp bot, monitoring uptime, alert Telegram
 - 🔌 **API & scraping** — bikin data publik jadi terstruktur dan gampang dikonsumsi
@@ -137,7 +137,7 @@ fun_fact: "Kalau ada ide jam 2 pagi, paginya repo-nya sudah jadi 😄"
 
 | Keperluan | Kontak |
 |---|---|
-| 🌍 Website / Portfolio | [fmcstore.web.id](https://fmcstore.web.id) |
+| 🌍 Website / Portfolio | [fmcstore.web.id](https://fmcstore.eu.cc) |
 | 📷 Instagram | [@fmcstoree](https://www.instagram.com/fmcstoree) |
 | 🧑‍💻 Akun kedua (eksperimen) | [bianmbut58-netizen](https://github.com/bianmbut58-netizen) |
 
