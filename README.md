@@ -56,7 +56,7 @@ ask_me_about: [Next.js, Node.js, Scraping, API, Anime]
 reach_me:
   instagram: "@fmcstoree"
   website: https://fmcstore.web.id
-fun_fact: "Kalau ada ide jam 2 pagi, paginya repo-nya sudah jadi 😄"
+fun_fact: "Enjoy Ke Semuanya"
 ```
 
 ### 🛠️ Tech Stack & Tools
