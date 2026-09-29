@@ -145,6 +145,6 @@ fun_fact: "Enjoy Ke Semuanya"
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
-<i>Arigatou gozaimasu! 🙏 · Dibuat dengan ❤️ oleh Guardian Marx Christocent</i>
+<i>Arigatou gozaimasu! 🙏</i>
 
 </div>
